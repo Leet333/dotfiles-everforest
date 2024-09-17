@@ -1,0 +1,24 @@
+/**
+* @name Everforest
+* @version 3.0.1
+* @description Edited version of Nocturnal by Spectra
+* @author Leet
+* @source https://github.com/xcruxiex/themes
+*/
+@import url("https://xcruxiex.github.io/themes/themes-cores/nocturnal.css");
+@import url("https://xcruxiex.github.io/themes/core/badges.css");
+@import url("https://xcruxiex.github.io/themes/core/custom-font.css");
+:root {
+  --backgroundColor01: #20262a;
+  --backgroundColor02: #2F383E;
+  --mainColor: #d3c6aa;
+  --gradientColor01: #d3c6aa;
+  --gradientColor02: #d3c6aa;
+
+  /* Better Hljs */
+  --backgroundCode: #1e2731;
+  --backgroundName: rgba(0, 0, 0, .2);
+
+
+  --customFont: 'gg sans', sans-serif;
+}
